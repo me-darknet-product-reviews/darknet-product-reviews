@@ -108,4 +108,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  21.06.2025 08:44 Link is now functioning and live
+
+
+Update:  23.06.2025 Footer URLs
