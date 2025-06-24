@@ -110,4 +110,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  23.06.2025 Footer URLs
+
+
+Update: url is now accessible and operational
