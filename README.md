@@ -120,4 +120,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  Monday 14 July 2025 url has been restored
+
+
+Update: URLs repaired
